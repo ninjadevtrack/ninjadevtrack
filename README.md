@@ -1,12 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JsAppNinja.JsAppNinja">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Alex+Rubinstien;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-
-<br>
 <h2 align="center">🔥 Senior Software Developer</h2>  
 
 My passion is technology, business and people. I love working with people and highly believe that the quality of a project's performance is deeply rooted in the passion, diligence, discipline and values of each individual involved in the project. The biggest value you can bring to a project is choosing individuals with an inherent passion for daily involvement in the project's progress. Please choose me if you are seeking a guy who is dedicated to the discipline of the project's inner workings. Then, I will become your project's driving force.
