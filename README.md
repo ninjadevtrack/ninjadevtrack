@@ -12,16 +12,6 @@ Contact me <b>email</b>: alrubinstien1088@gmail.com
 <br/>
 <br/>
 
-### 🧐 More About Me:
-
-- 🤝 &nbsp; I’m looking for new opportunity.
-- 🌱 &nbsp; I’m currently learning new technology; 
-- 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/ninjadevtrack?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels and on the weekend I'd like to explore hiking.
-
 <h2 align="center">🔥 Skills</h2>
 
 <b>LANGUAGES</b>
