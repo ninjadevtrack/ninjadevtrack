@@ -16,7 +16,7 @@ Contact me <b>email</b>: alrubinstien1088@gmail.com
 
 - 🤝 &nbsp; I’m looking for new opportunity.
 - 🌱 &nbsp; I’m currently learning new technology; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ninjadevtrack?tab=repositories)
+- 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/ninjadevtrack?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on
@@ -54,6 +54,7 @@ Contact me <b>email</b>: alrubinstien1088@gmail.com
 <b>LIBS & FRAMEWORKS:</b>
 
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
