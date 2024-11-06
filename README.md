@@ -12,9 +12,7 @@ Contact me <b>email</b>: alrubinstien1088@gmail.com
 <br/>
 <br/>
 
-<h2 align="center">🔥 Skills</h2>
-
-<b>LANGUAGES</b>
+## Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,py,php,java,graphql,apollo,ruby,html,css,sass,markdown" />
 </p>
