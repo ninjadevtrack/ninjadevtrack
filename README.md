@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JsAppNinja.JsAppNinja">
 
-<h2 align="center">🔥 Senior Software Developer</h2>  
+<h2 align="center">🔥 Senior Software Developer</h2>
 
 My passion is technology, business and people. I love working with people and highly believe that the quality of a project's performance is deeply rooted in the passion, diligence, discipline and values of each individual involved in the project. The biggest value you can bring to a project is choosing individuals with an inherent passion for daily involvement in the project's progress. Please choose me if you are seeking a guy who is dedicated to the discipline of the project's inner workings. Then, I will become your project's driving force.
 
@@ -15,19 +15,9 @@ Contact me <b>email</b>: alrubinstien1088@gmail.com
 <h2 align="center">🔥 Skills</h2>
 
 <b>LANGUAGES</b>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3572a5?style=for-the-badge&logo=python&logoColor=ffffff)
-![Apollo](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Ruby](https://img.shields.io/badge/-Ruby-B7a78C?style=for-the-badge&logo=ruby&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-D9A03C?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-B7e78C?style=for-the-badge&logo=php&logoColor=white)
-![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,php,java,graphql,apollo,ruby,html,css,sass,markdown" />
+</p>
 
 <b>LIBS & FRAMEWORKS:</b>
 
