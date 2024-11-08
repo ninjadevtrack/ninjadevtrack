@@ -52,7 +52,7 @@ Contact me <b>email</b>: alrubinstien1088@gmail.com
   </div>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ninjadevtrack"></img>
 </p>
 
@@ -61,4 +61,4 @@ Contact me <b>email</b>: alrubinstien1088@gmail.com
 </div>
 <div align="center">
   <img align="right" padding-left="20px" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ninjadevtrack&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
+</div> -->
